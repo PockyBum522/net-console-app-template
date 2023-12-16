@@ -5,4 +5,5 @@ Basic console app template with helpful things added in like logging to get futu
 * Serilog
 
 ## Note to self on testing
-dotnet new install "D:\source\repos\PockyBum522 Github\dotnet-new-wpf-template" --force && dotnet new pockywpfmvvm -o "NewProjectName"
+dotnet new install "D:\source\repos\PockyBum522 Github\net-console-app-template\src" --force 
+dotnet new pockyconsole -o "NewProjectName"
