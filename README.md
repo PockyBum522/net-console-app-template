@@ -3,7 +3,7 @@ Basic console app template with helpful things added in like logging to get futu
 
 Features
 
-    Serilog
+* Serilog
 
 Note to self on testing
 
